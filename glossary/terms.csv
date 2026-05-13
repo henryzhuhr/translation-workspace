@@ -1,0 +1,17 @@
+source,target,source_lang,target_lang,note,status
+PyQt5,PyQt5,zh-CN,en-US,Proper name - do not translate,approved
+Qt,Qt,zh-CN,en-US,Proper name - do not translate,approved
+QtDesigner,QtDesigner,zh-CN,en-US,Proper name - do not translate,approved
+PyCharm,PyCharm,zh-CN,en-US,Proper name - do not translate,approved
+Anaconda3,Anaconda3,zh-CN,en-US,Proper name - do not translate,approved
+OrinNano,OrinNano,zh-CN,en-US,NVIDIA Jetson Orin Nano - keep as is,approved
+信号与槽,Signals and Slots,zh-CN,en-US,Qt terminology,pending
+控件,Widget,zh-CN,en-US,Qt terminology,pending
+布局,Layout,zh-CN,en-US,Qt terminology,pending
+实验目的,Objective,zh-CN,en-US,Lab manual convention,pending
+基础知识,Background,zh-CN,en-US,Lab manual convention,pending
+实验步骤,Procedure,zh-CN,en-US,Lab manual convention,pending
+实验结果,Results,zh-CN,en-US,Lab manual convention,pending
+网关,Gateway,zh-CN,en-US,Edge device / gateway context,pending
+虚拟环境,Virtual Environment,zh-CN,en-US,Python terminology,pending
+窗口,Window,zh-CN,en-US,UI terminology,pending

@@ -1,0 +1,18 @@
+Author:          XCZN
+Creator:         Writer
+Producer:        LibreOffice 26.2.3.2 (AARCH64)
+CreationDate:    Thu May 14 01:02:33 2026 CST
+Custom Metadata: no
+Metadata Stream: yes
+Tagged:          yes
+UserProperties:  no
+Suspects:        no
+Form:            none
+JavaScript:      no
+Pages:           155
+Encrypted:       no
+Page size:       595.304 x 841.89 pts (A4)
+Page rot:        0
+File size:       9905284 bytes
+Optimized:       no
+PDF version:     1.7

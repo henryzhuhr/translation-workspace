@@ -1,0 +1,9 @@
+source,target,source_lang,target_lang,note,status
+OrinNano,OrinNano,zh-CN,en-001,Product/platform name,approved
+PyQt5,PyQt5,zh-CN,en-001,Framework name,approved
+QtDesigner,QtDesigner,zh-CN,en-001,Tool name,approved
+Anaconda3,Anaconda3,zh-CN,en-001,Software name,approved
+TensorFlow 2,TensorFlow 2,zh-CN,en-001,Framework name,approved
+Jetson,Jetson,zh-CN,en-001,Platform family name,approved
+实验手册,Lab Manual,zh-CN,en-001,Document title term,approved
+安全提示,Safety Instructions,zh-CN,en-001,Section title,approved

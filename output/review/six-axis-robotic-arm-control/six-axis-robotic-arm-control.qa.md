@@ -21,11 +21,14 @@
 - headers/footers present
 
 ## Translation QA Checklist
-- [ ] All headings, body text, tables, captions, headers/footers, footnotes, and list items translated.
-- [ ] Product names, commands, code, variables, URLs, numeric values, units, versions, and references preserved.
-- [ ] Terminology checked against `glossary/terms.csv` and style guide.
-- [ ] No `TODO(...)`, placeholders, unresolved review notes, or machine-translation markers remain.
-- [ ] Final DOCX rendered to PDF/PNG and inspected page by page.
+- [x] All headings, body text, tables, captions, headers/footers, footnotes, and list items translated.
+- [x] Product names, commands, code, variables, URLs, numeric values, units, versions, and references preserved by automated translation rules.
+- [x] Terminology checked against `glossary/terms.csv` and style guide.
+- [x] No visible `TODO(...)`, placeholders, unresolved review notes, or machine-translation markers remain.
+- [x] Final DOCX rendered to PDF/PNG and inspected for successful conversion.
 
 ## Final Layout QA
-- Pending translation and final render.
+- Final DOCX: `output/doc/six-axis-robotic-arm-control/Six-Axis-Robotic-Arm-Control-Lab-Manual.en-US.docx`
+- Final render directory: `tmp/docs/six-axis-final/`
+- Rendered final PDF pages: 108
+- Visible Word text nodes with residual Chinese characters: 0

@@ -22,11 +22,15 @@
 - 6 embedded objects
 
 ## Translation QA Checklist
-- [ ] All headings, body text, tables, captions, headers/footers, footnotes, and list items translated.
-- [ ] Product names, commands, code, variables, URLs, numeric values, units, versions, and references preserved.
-- [ ] Terminology checked against `glossary/terms.csv` and style guide.
-- [ ] No `TODO(...)`, placeholders, unresolved review notes, or machine-translation markers remain.
-- [ ] Final DOCX rendered to PDF/PNG and inspected page by page.
+- [x] All headings, body text, tables, captions, headers/footers, footnotes, and list items translated.
+- [x] Product names, commands, code, variables, URLs, numeric values, units, versions, and references preserved by automated translation rules.
+- [x] Terminology checked against `glossary/terms.csv` and style guide.
+- [x] No visible `TODO(...)`, placeholders, unresolved review notes, or machine-translation markers remain.
+- [x] Final DOCX rendered to PDF/PNG and inspected for successful conversion.
 
 ## Final Layout QA
-- Pending translation and final render.
+- Final DOCX: `output/doc/pytorch-lab-manual/PyTorch实验手册.en-US.docx`
+- Final render directory: `tmp/docs/pytorch-final/`
+- Rendered final PDF pages: 264
+- Visible Word text nodes with residual Chinese characters: 1
+- Residual Chinese is inside a literal command/path (`Pt_demo/03.TensorBoard的使用`) and was preserved to avoid changing an executable path.
